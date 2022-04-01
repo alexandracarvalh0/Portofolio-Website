@@ -2,10 +2,10 @@
 
 Para o uso do meu website é necessário abrir com o xampp! 
 
-Irei colocar umas fotos como sempre faço sobre o meu trabalho. 
+Irei colocar umas fotos como sempre faço sobre o meu trabalho. <br>
 Deixo aqui tambem o meu curriculo em pdf caso estejam interessados em ver :)
 
-[CV.pdf](https://github.com/alexandracarvalh0/Portofolio-Website/files/8400296/CV.pdf)
+Currículo -> [CV.pdf](https://github.com/alexandracarvalh0/Portofolio-Website/files/8400296/CV.pdf)
 
 ![Captura de ecrã 2022-04-01 200324](https://user-images.githubusercontent.com/99768956/161325803-9fd6e7f1-6ecb-4f99-9823-bbf3e45626a9.png)
 
